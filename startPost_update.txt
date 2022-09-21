@@ -14,8 +14,8 @@ Takie z grafiką wysokiej rozdzielczości:
 - Bertyx http://atariki.krap.pl/images/f/ff/Bertyx_intro.gif http://atariki.krap.pl/images/8/88/Bertyx.gif
 - Biedny Pies Antoni http://atarionline.pl/cn/data/upimages/Biedny_Pies_Antoni_(p1).png http://atarionline.pl/cn/data/upimages/Biedny_Pies_Antoni_(p2).png
 - Biedny Pies Antoni 3 http://atarionline.pl/cn/data/upimages/BiednyPiesAntoni3_0.png http://atarionline.pl/cn/data/upimages/BiednyPiesAntoni3_1.png
-- Bioptronid http://atarionline.pl/cn/data/upimages/bioptron(1).png http://atarionline.pl/cn/data/upimages/bioptron(2).png
-- Blah Blah
+- Bioptronid http://atarionline.pl/cn/data/upimages/bioptron(1).png http://atarionline.pl/cn/data/upimages/bioptron(2).png 
+- Blah Blah https://atarionline.pl/cn/data/upimages/blahblah(p1).png https://atarionline.pl/cn/data/upimages/blahblah(p2).png http://www.atarimania.com/8bit/screens/blah_blah_4.gif
 - Błękitne Nimfy http://atarionline.pl/cn/data/upimages/nimfy(p1).png http://grytekstowe.pl/sites/default/files/public/galeria/atari/Blekitne_Nimfy_atari_scr-1a.png
 - Bobby Bearing http://classic-games.pl/wp-content/uploads/2016/02/bobby_bearing_atari_1-300x214.png http://classic-games.pl/wp-content/uploads/2016/02/bobby_bearing_atari_2-300x214.png
 - Castle Defender http://matosimi.websupport.sk/atari/wp-content/uploads/2019/08/cds1.png http://matosimi.websupport.sk/atari/wp-content/uploads/2019/08/cd_r114.png http://matosimi.websupport.sk/atari/wp-content/uploads/2019/08/cd_r72.png
@@ -37,7 +37,7 @@ Takie z grafiką wysokiej rozdzielczości:
 - G.I.L.P. https://3.bp.blogspot.com/-LiY_LhkMoEw/UCNC3ZIMHnI/AAAAAAAACeA/PM_Vs-FcF-M/s400/GILP-atariteca-03.jpg https://2.bp.blogspot.com/-jlyy9RdCvWQ/UCNAzxdFkEI/AAAAAAAACdE/B2xDZ9bY4fE/s400/GILP-atariteca-01.jpg https://stare.e-gry.net/images/galeria-atarixl/1/g_i_l_p_2.jpg
 - Glut! http://atarionline.pl/cn/data/upimages/Glut_(p1).png http://atarionline.pl/cn/data/upimages/Glut_(p2).png http://atarionline.pl/cn/data/upimages/Glut_(p3).png
 - GULP! http://www.atarimania.com/8bit/screens/gulp.gif http://www.atarimania.com/8bit/screens/gulp_2.gif
-- The Great Escape http://atarionline.pl/cn/data/upimages/GreatEscape0_title.png http://atarionline.pl/cn/data/upimages/GreatEscape1.png
+- The Great Escape http://atarionline.pl/cn/data/upimages/GreatEscape0_title.png http://atarionline.pl/cn/data/upimages/GreatEscape1.png http://atarionline.pl/cn/data/upimages/GreatEscape2.png
 - Gunfright http://atarionline.pl/cn/data/upimages/2017/Gunfright_0.png http://atarionline.pl/cn/data/upimages/2017/Gunfright_3.png
 - Head Over Heels https://ekranownia.atari8.info/grafika/ekrany/769_1.png https://ekranownia.atari8.info/grafika/ekrany/769_3.png
 - Highway Encounter https://ekranownia.atari8.info/grafika/ekrany/1814_2.png https://ekranownia.atari8.info/grafika/ekrany/1814_3.png
@@ -95,9 +95,8 @@ Takie z grafiką wysokiej rozdzielczości:
 - Taipei XL https://ekranownia.atari8.info/grafika/ekrany/1162_1.png https://ekranownia.atari8.info/grafika/ekrany/1162_2.png
 - Tajemniczy Zamek 2 i 3 https://ekranownia.atari8.info/grafika/ekrany/2456_1.png https://ekranownia.atari8.info/grafika/ekrany/2457_1.png
 - Tetris 3D https://ekranownia.atari8.info/grafika/ekrany/1190_1.png https://ekranownia.atari8.info/grafika/ekrany/1190_2.png https://ekranownia.atari8.info/grafika/ekrany/1190_3.png
-		
 - Tetrix https://ekranownia.atari8.info/grafika/ekrany/1191_1.png https://ekranownia.atari8.info/grafika/ekrany/1191_2.png
-- Tetryx (?)
+- Tetryx http://www.retronagazie.eu/wp-content/uploads/2020/11/Tetryx-Atari-1.jpg http://www.retronagazie.eu/wp-content/uploads/2020/11/Tetryx-Atari-2.jpg http://www.retronagazie.eu/wp-content/uploads/2020/11/Tetryx-Atari-4.jpg
 - Tigers In The Snow http://www.atarimania.com/8bit/screens/tigers_in_the_snow_2.gif 
 - Tomcat https://atarionline.pl/cn/data/upimages/Tomcat_(p1).png https://atarionline.pl/cn/data/upimages/Tomcat_(p3).png https://atarionline.pl/cn/data/upimages/Tomcat_(p5).png
 - Turbo Snail http://atarionline.pl/cn/data/upimages/TurboSnail0.png http://atarionline.pl/cn/data/upimages/TurboSnail2.png http://atarionline.pl/cn/data/upimages/TurboSnail1.png
@@ -113,7 +112,7 @@ https://ekranownia.atari8.info/grafika/ekrany/1540_1.png https://ekranownia.atar
 
 Gry z grafiką projektowaną z myślą o artefaktach:
 
-- A.E.
+- A.E. 
 - Apple Galaxian
 - Apple Invaders
 - Aztec
