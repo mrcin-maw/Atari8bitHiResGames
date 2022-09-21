@@ -15,6 +15,7 @@ Takie z grafiką wysokiej rozdzielczości:
 - Biedny Pies Antoni http://atarionline.pl/cn/data/upimages/Biedny_Pies_Antoni_(p1).png http://atarionline.pl/cn/data/upimages/Biedny_Pies_Antoni_(p2).png
 - Biedny Pies Antoni 3 http://atarionline.pl/cn/data/upimages/BiednyPiesAntoni3_0.png http://atarionline.pl/cn/data/upimages/BiednyPiesAntoni3_1.png
 - Bioptronid http://atarionline.pl/cn/data/upimages/bioptron(1).png http://atarionline.pl/cn/data/upimages/bioptron(2).png
+- Blah Blah
 - Błękitne Nimfy http://atarionline.pl/cn/data/upimages/nimfy(p1).png http://grytekstowe.pl/sites/default/files/public/galeria/atari/Blekitne_Nimfy_atari_scr-1a.png
 - Bobby Bearing http://classic-games.pl/wp-content/uploads/2016/02/bobby_bearing_atari_1-300x214.png http://classic-games.pl/wp-content/uploads/2016/02/bobby_bearing_atari_2-300x214.png
 - Castle Defender http://matosimi.websupport.sk/atari/wp-content/uploads/2019/08/cds1.png http://matosimi.websupport.sk/atari/wp-content/uploads/2019/08/cd_r114.png http://matosimi.websupport.sk/atari/wp-content/uploads/2019/08/cd_r72.png
@@ -94,8 +95,8 @@ Takie z grafiką wysokiej rozdzielczości:
 - Taipei XL https://ekranownia.atari8.info/grafika/ekrany/1162_1.png https://ekranownia.atari8.info/grafika/ekrany/1162_2.png
 - Tajemniczy Zamek 2 i 3 https://ekranownia.atari8.info/grafika/ekrany/2456_1.png https://ekranownia.atari8.info/grafika/ekrany/2457_1.png
 - Tetris 3D https://ekranownia.atari8.info/grafika/ekrany/1190_1.png https://ekranownia.atari8.info/grafika/ekrany/1190_2.png https://ekranownia.atari8.info/grafika/ekrany/1190_3.png
-- Tetryx (?)
 - Tetrix https://ekranownia.atari8.info/grafika/ekrany/1191_1.png https://ekranownia.atari8.info/grafika/ekrany/1191_2.png
+- Tetryx http://www.retronagazie.eu/wp-content/uploads/2020/11/Tetryx-Atari-1.jpg http://www.retronagazie.eu/wp-content/uploads/2020/11/Tetryx-Atari-2.jpg http://www.retronagazie.eu/wp-content/uploads/2020/11/Tetryx-Atari-4.jpg
 - Tigers In The Snow http://www.atarimania.com/8bit/screens/tigers_in_the_snow_2.gif 
 - Tomcat https://atarionline.pl/cn/data/upimages/Tomcat_(p1).png https://atarionline.pl/cn/data/upimages/Tomcat_(p3).png https://atarionline.pl/cn/data/upimages/Tomcat_(p5).png
 - Turbo Snail http://atarionline.pl/cn/data/upimages/TurboSnail0.png http://atarionline.pl/cn/data/upimages/TurboSnail2.png http://atarionline.pl/cn/data/upimages/TurboSnail1.png
